@@ -1,3 +1,2 @@
-#### Wes Head
 
-I am but a conduit to stackoverflow.
+## I am but a conduit to stackoverflow.
